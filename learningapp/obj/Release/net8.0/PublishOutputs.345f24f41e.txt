@@ -1,0 +1,7 @@
+D:\DevOps-Lab\App-Aws\tmp2\learningapp\bin\Publish\learningapp.exe
+D:\DevOps-Lab\App-Aws\tmp2\learningapp\bin\Publish\appsettings.Development.json
+D:\DevOps-Lab\App-Aws\tmp2\learningapp\bin\Publish\appsettings.json
+D:\DevOps-Lab\App-Aws\tmp2\learningapp\bin\Publish\learningapp.dll
+D:\DevOps-Lab\App-Aws\tmp2\learningapp\bin\Publish\learningapp.deps.json
+D:\DevOps-Lab\App-Aws\tmp2\learningapp\bin\Publish\learningapp.runtimeconfig.json
+D:\DevOps-Lab\App-Aws\tmp2\learningapp\bin\Publish\learningapp.pdb
